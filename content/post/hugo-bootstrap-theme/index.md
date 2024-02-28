@@ -1,20 +1,18 @@
 ---
-title: "Hugo Bootstrap Theme alpha"
-description: "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
+title: "DataForward Mission Statement"
+description: "Find out our mission in supporting data collection."
 date: 2022-05-22T13:35:02+01:00
 draft: false
 images: ["site-feature-image.png"]
 categories: ["Hugo Bootstrap Theme"]
 tags: ["Hugo","Bootstrap","Featured"]
 keywords: ["hugo bootstrap theme"]
-authors: ["Filipe Carneiro"]
+authors: ["Ruth Tilahun"]
 aliases:
   - hugo-bootstrap-theme-alpha
 ---
 
-> Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.
-
-Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
+> Data Colelction Tool
 
 - 🛡️ Security aware
 

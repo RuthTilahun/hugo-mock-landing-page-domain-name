@@ -10,13 +10,14 @@ These are features that are currently implemented in IntegriMark, and which feat
 
 2. As a microfinance startup, I want to set up automated reminders for entrepreneurs to complete financial data collection forms so I can have a high response rate.
 
-3. As a social impact startup founder, I want to define access permissions for our team members to view and analyze beneficiary data so I can ensures that only authorized individuals can access sensitive information.
+3. As an education startup founder, I want to customize the branding of our interactive quizzes to maintain a consistent and professional image for our educational platform.
 
 ### Other Features
 
 1. As a fintech startup founder, I want the data collection service to implement robust security measures to protect financial data. so I can ensure compliance with data protection regulations and builds trust among our users.
 
-2. As an education startup founder, I want to customize the branding of our interactive quizzes to maintain a consistent and professional image for our educational platform.
+2. As a social impact startup founder, I want to define access permissions for our team members to view and analyze beneficiary data so I can ensures that only authorized individuals can access sensitive information.
+
 
 3. As a fintech startup founder, I want to easily access and review historical financial data so I can track changes and trends over time.
 

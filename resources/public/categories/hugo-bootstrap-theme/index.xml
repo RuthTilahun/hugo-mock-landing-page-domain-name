@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bootstrap Theme on DataForward</title>
+    <link>http://localhost:1313/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</link>
+    <description>Recent content in Hugo Bootstrap Theme on DataForward</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Ruth Tilahun</copyright>
+    <lastBuildDate>Thu, 22 Feb 2024 17:43:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/categories/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataForward Mission Statement</title>
+      <link>http://localhost:1313/hugo-mock-landing-page/post/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>http://localhost:1313/hugo-mock-landing-page/post/hugo-bootstrap-theme/</guid>
+      <description>Data Colelction Tool&#xA;🛡️ Security aware&#xA;Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.&#xA;⚡ Fast by default&#xA;Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.&#xA;📈 SEO-ready&#xA;Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.</description>
+    </item>
+  </channel>
+</rss>
