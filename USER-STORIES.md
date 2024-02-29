@@ -18,7 +18,6 @@ These are features that are currently implemented in IntegriMark, and which feat
 
 2. As a social impact startup founder, I want to define access permissions for our team members to view and analyze beneficiary data so I can ensures that only authorized individuals can access sensitive information.
 
-
 3. As a fintech startup founder, I want to easily access and review historical financial data so I can track changes and trends over time.
 
 4. As an e-commerce startup founder in a developing country, I want the data collection service to provide functionality for offline data collection so that customer feedback can be captured even in areas with limited internet connectivity, improving the inclusivity of our data collection efforts.
